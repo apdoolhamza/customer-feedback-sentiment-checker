@@ -2,7 +2,7 @@
 
 A simple yet powerful sentiment analysis system that predicts whether customer feedback is **Positive** or **Negative** with a confidence percentage using **python** and **natural language processing (NLP) techniques**, this project enables businesses to gain insights into customer opinions, improving decision-making and customer experience.
 
-![Demo Screenshot](Screenshots/positive.png)
+[![Watch the video](https://img.youtube.com/vi/ULMRtAO1rqA/maxresdefault.jpg)](https://youtu.be/ULMRtAO1rqA)
 
 ## Features
 
