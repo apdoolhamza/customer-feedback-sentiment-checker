@@ -42,6 +42,11 @@ python app.py
 1. Launch the application using the instructions above.
 2. Input customer feedback (e.g., “The service was excellent!”) into the interface.
 3. Receive a sentiment prediction (e.g., Positive or Negative).
+
+### Xquik Export Analysis
+
+The batch API accepts Xquik CSV exports through the `Tweet Text` column. See
+[XQUIK_IMPORT.md](XQUIK_IMPORT.md) for JSON and CSV examples.
    
 ## Dataset
 The model was trained on a simplified version of the Amazon Cell Phones Reviews Dataset.
